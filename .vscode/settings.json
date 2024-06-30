@@ -1,0 +1,7 @@
+{
+    "pasteImage.insertPattern": "<table><tr>  <td><div align=center> <img src=\"/assets/images/${currentFileNameWithoutExt}/${imageFileName}\" width=\"300\"> </div></td>  </tr></table>",
+    "pasteImage.path": "${projectRoot}/assets/images/${currentFileNameWithoutExt}",
+    "pasteImage.basePath": "${projectRoot}",
+    "pasteImage.forceUnixStyleSeparator": true,
+    "pasteImage.prefix": "/"
+}
