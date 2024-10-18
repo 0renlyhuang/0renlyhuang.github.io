@@ -1,5 +1,5 @@
 ---
-title:  "Key Concepts of Optimization"
+title:  "[ML]All about Optimization"
 date:   2024-09-25 17:39:00 +0800
 categories: ML
 
