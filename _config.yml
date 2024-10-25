@@ -24,7 +24,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Infinite Horizons"
+title                    : "Pixel Flow"
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
@@ -75,7 +75,8 @@ header:
 author:
   name             : "renly huang"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Always seeking new horizons, for in every corner of the unknown lies an opportunity to grow and discover."
+  bio              : "Push limits, make it happen.
+                      Always Exploring!"
   location         : "China"
   email            : "renlyhuang1213@gmail.com"
   links:
